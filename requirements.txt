@@ -1,0 +1,3 @@
+tqdm
+speech_recognition
+streamlit
